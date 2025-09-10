@@ -30,3 +30,18 @@ A modern Snake game built with React, TypeScript, and Vite.
 ## 🚀 Local Development
 
 ```bash
+
+ Clone the repository
+git clone https://github.com/YOUR_USERNAME/snake-game.git
+
+2️⃣ Navigate to project directory
+cd snake-game
+
+3️⃣ Install dependencies
+npm install
+
+4️⃣ Start development server
+npm run dev
+
+5️⃣ Open your browser
+Visit: http://localhost:5173
