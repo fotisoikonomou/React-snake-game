@@ -6,7 +6,7 @@ A modern Snake game built with React, TypeScript, and Vite.
 
 ## 🎮 Play Online
 
-**[🕹️ Click here to play!](https://YOUR_USERNAME.github.io/snake-game)**
+**[🕹️ Click here to play!](https://fotisoikonomou.github.io)/React-snake-game)**
 
 ## ✨ Features
 
