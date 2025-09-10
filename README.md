@@ -4,10 +4,6 @@ A modern Snake game built with React, TypeScript, and Vite.
 
 ![Snake Game Preview](https://img.shields.io/badge/Game-Snake-green?style=for-the-badge&logo=react)
 
-## 🎮 Play Online
-
-**[🕹️ Click here to play!](https://fotisoikonomou.github.io/React-snake-game)**
-
 ## ✨ Features
 
 - 🎯 Classic Snake gameplay
